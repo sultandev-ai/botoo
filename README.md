@@ -1,0 +1,2 @@
+# botoo
+ Patalok hisoblash bot
